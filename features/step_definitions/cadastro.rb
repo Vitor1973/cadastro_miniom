@@ -8,7 +8,6 @@ end
 Quando('encontro o formulario de preenchimento') do
     find('.elementos')
     find('#Email').set"Vitor.hugo@maionese.com"
-    #{}find('//input[@id="Email"]').set "jose.roberto@gmail.com"
     find('#Senha').set"vec345678"
     find('#Nome').set"Vitor Hugo"
     find('#Telefone').set"11 9 5555-5555"
