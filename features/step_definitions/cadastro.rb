@@ -19,7 +19,7 @@ Quando('encontro o formulario de preenchimento') do
     find('.checkbox').click
     find('#enviar').click
 
-    sleep 10
+
 
 end
 
