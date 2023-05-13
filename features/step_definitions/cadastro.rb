@@ -23,6 +23,6 @@ Quando('encontro o formulario de preenchimento') do
 
 end
 
-Entao('digito os dados no formulario') do
-
-end
+Entao('verifico se estou na pagina correta') do
+    
+  end

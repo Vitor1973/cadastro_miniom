@@ -6,6 +6,7 @@
 Funcionalidade: Cadastro Usuario
 
         Cenario: Cadastrar usuario
-            Dado que acesso a url
+             Dado que acesso a url
              Quando encontro o formulario de preenchimento
-             Entao  digito os dados no formulario
+             Entao verifico se estou na pagina correta
+
