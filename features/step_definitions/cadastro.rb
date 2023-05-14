@@ -24,5 +24,5 @@ Quando('encontro o formulario de preenchimento') do
 end
 
 Entao('verifico se estou na pagina correta') do
-    
+    expect(current_url).to eq('https://automacao-vitao.netlify.app//?contato=sms')  
   end
